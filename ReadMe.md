@@ -11,7 +11,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/sejalgupta04" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sejalgupta04" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://medium.com/@sejalgupta04" target="blank"><img src="https://img.shields.io/badge/Medium-%23000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
