@@ -1,5 +1,3 @@
-###
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/sejalgupta04/sejalgupta04/blob/main/Image/2.png" alt="Banner Image">
@@ -7,17 +5,22 @@
 
 <!-- Heading and Introduction -->
 <h1 align="center">Hi 👋, I'm Sejal Gupta</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Code Architect |  Transforming Ideas into Code, One Keystroke at a Time</h3>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sejalgupta04" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://medium.com/@sejalgupta04" target="blank"><img src="https://img.shields.io/badge/Medium-%23000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+   <a href="mailto:sejalgupta0104@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=medium&logoColor=white" alt="Gmail"></a>
 </p>
-
 <!-- About Me Section -->
 
-- 🌱 I’m currently learning **React**
+- 🚀 Journeying Through: Currently diving deep into the **React** ocean..
+- 🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.
+- 📘 Current Quest: Exploring the depths of **React**, while constantly relying on the strength of **.NET Core** and **C#** for backend expertise.
+- 🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!
+- 🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+- 🤝 Need Help with Marketing?: Partner with me through **Brands Sarthi** to bring your ideas to life. Let's collaborate on projects that combine tech and marketing!
 
 ---
 
